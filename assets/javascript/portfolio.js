@@ -45,6 +45,11 @@
                 link: 'https://www.roblox.com/users/3336358575/profile'
 			   
             },
+		    {
+                name: 'downloads',
+                link: 'www.locusdownloads.ga'
+			   
+            },
         ]; 
         for (var i in links) {
             var link = links[i];
