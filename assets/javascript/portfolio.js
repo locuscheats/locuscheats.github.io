@@ -47,7 +47,7 @@
             },
 		    {
                 name: 'downloads',
-                link: 'www.locusdownloads.ga'
+                link: 'https://www.locusdownloads.ga'
 			   
             },
         ]; 
